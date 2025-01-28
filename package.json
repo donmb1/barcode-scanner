@@ -1,7 +1,7 @@
 {
-  "name": "@capacitor-community/barcode-scanner",
-  "version": "4.0.1",
-  "description": "A fast and efficient (QR) barcode scanner for Capacitor",
+  "name": "@pocket-rocket/barcode-scanner",
+  "version": "6.0.0",
+  "description": "A fast and efficient (QR) barcode scanner for Capacitor (forked)",
   "main": "dist/plugin.cjs.js",
   "module": "dist/esm/index.js",
   "types": "dist/esm/index.d.ts",
@@ -17,10 +17,10 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/capacitor-community/barcode-scanner.git"
+    "url": "git+https://github.com/donmb1/barcode-scanner.git"
   },
   "bugs": {
-    "url": "https://github.com/capacitor-community/barcode-scanner/issues"
+    "url": "https://github.com/donmb1/barcode-scanner/issues"
   },
   "keywords": [
     "capacitor",
